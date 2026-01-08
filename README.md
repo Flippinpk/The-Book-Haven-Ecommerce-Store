@@ -2,8 +2,6 @@
 
 **The Book Haven** is a modern, full-stack online bookstore application designed to provide a seamless book browsing and purchasing experience. Built with the MERN stack (MongoDB, Express, React, Node.js) and powered by Vite and Tailwind CSS, it features a responsive user interface, secure backend API, and robust state management.
 
-![Project Banner](https://via.placeholder.com/1200x300?text=The+Book+Haven+Preview)
-
 ## Features
 
 *   **Extensive Book Catalog**: Browse a wide collection of books with detailed descriptions and cover images.
