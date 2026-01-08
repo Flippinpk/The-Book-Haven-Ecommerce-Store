@@ -1,5 +1,13 @@
 # The Book Haven
 
+![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-6.0.3-646CFF?logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-9.2.0-764ABC?logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.17-06B6D4?logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-LTS-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4.21.2-000000?logo=express&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-8.9.2-880000?logo=mongoose&logoColor=white)
+
 **The Book Haven** is a modern, full-stack online bookstore application designed to provide a seamless book browsing and purchasing experience. Built with the MERN stack (MongoDB, Express, React, Node.js) and powered by Vite and Tailwind CSS, it features a responsive user interface, secure backend API, and robust state management.
 
 ## Features
